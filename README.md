@@ -9,3 +9,8 @@ CREATE TABLE Dissertacoes (
     nome_arquivo NVARCHAR(MAX) NOT NULL, -- Nome original do arquivo
     tamanho_arquivo BIGINT NOT NULL -- Tamanho do arquivo em bytes
 );
+
+pip install selenium
+pip install pyautogui
+pip install pyodbc
+
